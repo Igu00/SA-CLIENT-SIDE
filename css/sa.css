@@ -1,0 +1,131 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.geral{
+    background-color: rgba(165, 165, 165, 0.548);
+    margin: auto;
+
+}
+
+.cabecalho{
+    text-align: center;
+}
+
+.banner{
+    border-radius: 12px;
+    height: 600px;
+    width: auto;
+    background-image: url(img/s15.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur();
+    text-align: right;
+
+}
+
+.sobre{
+    border: 3px solid rgba(0, 0, 0, 0.5);
+    border-radius: 13px;
+    margin-top: 13px;
+    background-color: rgba(68, 68, 68, 0.562);
+
+}
+
+.motores{
+    text-decoration: none;
+    text-align: center;
+    font-size: 60px;
+    font-variant: small-caps;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 0, 0);
+
+}
+.titulo{
+    margin-top: 100px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 60px;
+    font-variant: small-caps;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.jz{
+    display: flex;
+
+}
+.texto{
+    text-align: justify;
+    font-size: 25px;
+    font-variant: small-caps;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 459px;
+    border: 3px solid black;
+    border-radius: 15px;
+    background-color: rgba(68, 68, 68, 0.562);
+}
+.txt{
+    text-align: justify;
+    font-size: 25px;
+    font-variant: small-caps;
+    font-family: 'Courier New', Courier, monospace;
+    border: 3px solid black;
+    border-radius: 15px;
+    background-color: rgba(68, 68, 68, 0.562);
+    margin-left: 450px;
+    margin-right: 125px;
+    
+}
+.imagem{
+    margin-right: 459px;
+    border-radius: 15px;
+    box-shadow: 1px 2px 5px;
+
+}
+.img{
+    margin-left: 450px;
+    border-radius: 15px;
+    box-shadow: 1px 2px 5px;
+    margin-right: 125px;
+}
+
+.rb{
+    display: flex;
+
+}
+
+.gt{
+    display: flex;
+
+}
+
+.footer{
+    background-color: rgb(0, 0, 0);
+    height: 159px;
+    margin-top: 25px;
+    border-radius: 15px 15px 0px 0px;
+    text-align: right;
+    font-size: 20px;
+    font-variant: small-caps;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    padding-right: 57px;
+    color: pink;
+    
+
+}
+
+.nos{
+    text-align: center;
+    font: bold;
+    font-size: 34px;
+    font-variant: small-caps;
+    font-family: 'Courier New', Courier, monospace;
+}
+.texto1{
+    font-size: 26px;
+    font-variant: small-caps;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+}
