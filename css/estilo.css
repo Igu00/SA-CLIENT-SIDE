@@ -1,0 +1,137 @@
+@media only screen and (max-device-width: 900px){
+}
+
+body{
+    margin: 0%;
+    font-family: 'Courier New', Courier, monospace;
+}
+.cabecalho{
+    text-align: center;
+    padding-top: 1%;
+}
+.menu{
+    background-color: darkblue;
+    margin-bottom: 0px;
+}
+li{
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+ul{
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.lista1{
+    margin-right: 25px;
+}
+.lista3{
+    margin-left: 25px;
+}
+.banner{
+    text-align: center;
+    margin-top: 0px;
+}
+.cons{
+    padding-bottom: 15px;
+    border-bottom: 4px solid darkblue;
+    
+}
+.estoque{
+    margin-top: 0px;
+    padding-left: 32.5%;
+    color: rgb(0, 36, 102);
+}
+
+
+.quadro{
+    margin-left: 32.5%;
+    margin-right: 32.5%;
+    box-shadow: 2px 1px 5px;
+    border: 1px transparent rgb(255, 255, 255);
+    margin-bottom: 2px;
+    
+}
+
+
+.quadro img {
+    width: 70%;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+	transition: all 0.3s;
+}
+.quadro:hover img{
+    -moz-transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+}
+
+.carro1{
+    padding: 7px 13px;
+    text-align: center;
+    margin-bottom: 35px;    
+}
+
+.carro2{
+    text-align: center;
+    padding: 7px 13px;
+    margin-bottom: 35px;   
+}
+
+.carro3{
+    text-align: center;
+    padding: 7px 13px;
+    margin-bottom: 35px;   
+
+}
+
+.carro4{
+    text-align: center;
+    padding: 7px 13px; 
+    margin-bottom: 35px;   
+
+}
+
+.bmwi{
+    padding-left: 32.5%;
+}
+.title{
+    text-align: justify;
+    color: black;
+}
+.esp{
+    text-align: justify;
+    font-size: 125%;
+    border: double 1px black;
+    margin-right: 48%;
+    color: black;
+}
+footer{
+    background-color: darkblue;
+    margin-bottom: 0px;
+    text-align: right;
+    color: white;
+    padding-right: 8.5%;
+    padding-bottom: 0px;
+    height: 216px;
+    padding-top: 1%;
+}
+.cop{
+    text-align: center;
+}
+.fp{
+    text-align: left;
+}
+.coment{
+    font-size: 175%;
+    border-bottom: rgb(0, 36, 102) 1px solid;
+    margin-right: 47.75%;
+}
+form{
+    margin-right: 47.75% ;
+    margin-bottom: 1%;
+}
